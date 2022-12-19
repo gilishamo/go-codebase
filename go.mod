@@ -1,3 +1,3 @@
-module github.com/go-codebase
+module github.com/gilishamo/go-codebase
 
 go 1.19
